@@ -8,12 +8,13 @@
 
 body {
     font-family: 'Poor Story', cursive;
-    background: linear-gradient(#141414, #1a1919);
+    background: linear-gradient(#141414 35%, #3f1d1d);
 }
 
 header {
     width: 940px;
     margin: 0 auto;
+    background: rgb(158, 38, 38, 1);
 }
 
 
@@ -27,7 +28,7 @@ h1 {
 main {
     width: 940px;
     margin: 0 auto;
-    background: linear-gradient(#141414, #1a1919)
+    background: linear-gradient(#141414 35%, #3f1d1d);
 }
 
 .icon {
