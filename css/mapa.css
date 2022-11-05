@@ -1,11 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+
+/* font-family: 'Poor Story', cursive; */
+
+
+
+
+
 body {
-    background-color: ;
+    font-family: 'Poor Story', cursive;
+    background: linear-gradient(#141414, #1a1919);
 }
+
+header {
+    width: 940px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
 
 main {
     width: 940px;
     margin: 0 auto;
-    background-color: #141414;
+    background: linear-gradient(#141414, #1a1919)
 }
 
 .icon {
